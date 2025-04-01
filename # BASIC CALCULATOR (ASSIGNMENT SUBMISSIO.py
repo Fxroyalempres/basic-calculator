@@ -1,7 +1,7 @@
 # BASIC CALCULATOR (ASSIGNMENT SUBMISSION)
 # Takes two numbers and performs +, -, *, /
 # Handles division by zero and invalid operators
-# Submitted by: Antoniette Kagendo Kariuki
+# Submitted by: Doreen Njoki Kariuki
 def basic_calculator():
     print("==== BASIC PYTHON CALCULATOR ====")
     
